@@ -1,9 +1,13 @@
 import axios from 'axios';
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 
 
 function GetData({update}){
-    let [searchTerm,setSearchTerm] = useState('dog');
+    let [searchTerm,setSearchTerm] = useState('cat');
+
+    useEffect(()=>{
+        getImages();
+},[])
 
    // console.log("Access Key",process.env.REACT_APP_ACCESS_KEY) //the variable storing access key in .env has to start with react_app_
 
