@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item >img{
+    width:20vw;
+    height:20vw;
+}
