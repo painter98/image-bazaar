@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/image-bazaar/static/css/main.e0ea1695.css",
-    "main.js": "/image-bazaar/static/js/main.da23f83a.js",
+    "main.js": "/image-bazaar/static/js/main.e54a7367.js",
     "index.html": "/image-bazaar/index.html",
     "main.e0ea1695.css.map": "/image-bazaar/static/css/main.e0ea1695.css.map",
-    "main.da23f83a.js.map": "/image-bazaar/static/js/main.da23f83a.js.map"
+    "main.e54a7367.js.map": "/image-bazaar/static/js/main.e54a7367.js.map"
   },
   "entrypoints": [
     "static/css/main.e0ea1695.css",
-    "static/js/main.da23f83a.js"
+    "static/js/main.e54a7367.js"
   ]
 }
